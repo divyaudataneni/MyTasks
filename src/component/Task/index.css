@@ -1,0 +1,23 @@
+.task-cont {
+  background-color: grey;
+  padding: 5px;
+  margin: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+}
+
+.task-p {
+  background-color: orangered;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.task-h1 {
+  font-size: 20px;
+  padding-left: 10px;
+}
